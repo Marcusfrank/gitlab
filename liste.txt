@@ -4,5 +4,10 @@ bananer
 mælk
 smør
 brød
+
 juice
 æg
+
+pandamælk
+mælkesnitter
+
